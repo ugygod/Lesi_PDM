@@ -1,2 +1,2 @@
-# Lesi_PDM_26536
+# Lesi_PDM
 Programação de Dispositivos Móveis
