@@ -1,2 +1,2 @@
-# Lesi_PDM
-Programação de Dispositivos Móveis
+# Programação de Dispositivos Móveis
+Repositório relativo à Unidade Curricular Programação de Dispositivos Móveis
